@@ -1,0 +1,24 @@
+{
+    "parent": "block/cube_directional",
+    "textures": {
+        "particle": "block/command_block_back",
+        "down": "block/command_block_side",
+        "up": "block/command_block_side",
+        "north": "block/command_block_front",
+        "east": "block/command_block_side",
+        "south": "block/command_block_back",
+        "west": "block/command_block_side"
+    },
+
+    "overrides": [
+  		{ "predicate": {"custom_model_data": 13216}, "model": "item/ammo/standard/pistol_ammo"},
+  		{ "predicate": {"custom_model_data": 13217}, "model": "item/ammo/standard/assault_rifle_ammo"},
+  		{ "predicate": {"custom_model_data": 13218}, "model": "item/ammo/standard/shotgun_ammo"},
+  		{ "predicate": {"custom_model_data": 13219}, "model": "item/ammo/standard/sniper_rifle_ammo"},
+  		{ "predicate": {"custom_model_data": 13223}, "model": "item/ammo/thrower/chemical_thrower_ammo"},
+  		{ "predicate": {"custom_model_data": 13225}, "model": "item/ammo/thrower/ink_blaster_ammo"},
+  		{ "predicate": {"custom_model_data": 13234}, "model": "item/ammo/laser/9v_laser_battery"},
+          { "predicate": {"custom_model_data": 13300}, "model": "item/ammo/standard/rocket"},
+          { "predicate": {"custom_model_data": 13301}, "model": "item/ammo/thrower/flame_thrower_ammo"}
+ ]
+}

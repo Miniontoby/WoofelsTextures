@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "shotgun_ammo",
+		"particle": "shotgun_ammo"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 6],
+			"to": [11, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 7], "texture": "#0"},
+				"up": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"down": {"uv": [0, 2, 3, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [4.5, 3.5, 0],
+			"scale": [0.5, 0.5, 0.28]
+		},
+		"firstperson_lefthand": {
+			"translation": [6, 3.5, 0],
+			"scale": [0.5, 0.5, 0.28]
+		},
+		"ground": {
+			"translation": [-1, 0, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [22, -34, 0],
+			"translation": [0.25, 2.25, 0]
+		},
+		"fixed": {
+			"translation": [-0.25, 4, 0]
+		}
+	}
+}

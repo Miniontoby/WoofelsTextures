@@ -1,0 +1,266 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/pistol.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/assault_rifle.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/shotgun.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/sniper_rifle.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/laser_pistol.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/laser_rifle.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/laser_cannon.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/combat_shotgun.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/bazooka.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/flame_thrower.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/ray_gun_green.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/ray_gun_blue.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/chemical_thrower.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/ink_blaster.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/assault_laser_rifle.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0056"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:gun/ray_gun_pink.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0043"],
+            "END_OF_GUN_RECIPES_END_OF_GUN_RECIPES_END_OF_GUN_RECIPES_": 80085
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/pistol_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0044"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/assault_rifle_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/shotgun_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0046"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/sniper_rifle_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0047"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/9v_laser_battery.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0048"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/15v_laser_battery.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0049"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/15v_laser_battery_bundle.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/rocket.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/chemical_thrower_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/ink_blaster_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/combat_shotgun_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:ammo/flame_thrower_ammo.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004c"],
+            "END_OF_AMMO_RECIPES_END_OF_AMMO_RECIPES_END_OF_AMMO_RECIPES_": 80085
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:medical/bandage.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:medical/medkit.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:medical/syringe.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u004f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:medical/regeneration_syringe.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0050"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:medical/absorption_syringe.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0051"],
+            "END_OF_MEDICAL_RECIPIES_END_OF_MEDICAL_RECIPIES_END_OF_MEDICAL_RECIPIES": 80085
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:equipment/c4.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:equipment/land_mine.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:equipment/auto_turret.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gbg:equipment/laser_shield.png",
+            "ascent": 56,
+            "height": 56,
+            "chars": ["\u0055"]
+        }
+    ]
+}

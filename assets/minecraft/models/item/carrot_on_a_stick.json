@@ -1,0 +1,40 @@
+{
+ "parent": "item/handheld_rod",
+ "textures": {
+  "layer0": "item/carrot_on_a_stick"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 13212}, "model": "item/gun/standard/pistol"},
+  { "predicate": {"custom_model_data": 13213}, "model": "item/gun/standard/assault_rifle"},
+  { "predicate": {"custom_model_data": 13214}, "model": "item/gun/standard/sniper_rifle"},
+  { "predicate": {"custom_model_data": 13215}, "model": "item/gun/standard/shotgun"},
+  { "predicate": {"custom_model_data": 13222}, "model": "item/gun/thrower/chemical_thrower"},
+  { "predicate": {"custom_model_data": 13224}, "model": "item/gun/thrower/ink_blaster"},
+  { "predicate": {"custom_model_data": 13226}, "model": "item/gun/ray/ray_gun_green"},
+  { "predicate": {"custom_model_data": 13227}, "model": "item/gun/ray/ray_gun_blue"},
+  { "predicate": {"custom_model_data": 13228}, "model": "item/medicine/medkit"},
+  { "predicate": {"custom_model_data": 13230}, "model": "item/medicine/cure"},
+  { "predicate": {"custom_model_data": 13231}, "model": "item/medicine/regeneration"},
+  { "predicate": {"custom_model_data": 13232}, "model": "item/medicine/absorption"},
+  { "predicate": {"custom_model_data": 13233}, "model": "item/gun/laser/laser_pistol"},
+  { "predicate": {"custom_model_data": 13235}, "model": "item/gun/laser/laser_rifle"},
+  { "predicate": {"custom_model_data": 13237}, "model": "item/gun/laser/laser_cannon"},
+  { "predicate": {"custom_model_data": 13239}, "model": "item/equipment/laser_shield"},
+  { "predicate": {"custom_model_data": 13242}, "model": "item/equipment/c4"},
+  { "predicate": {"custom_model_data": 13243}, "model": "item/equipment/auto_turret"},
+  { "predicate": {"custom_model_data": 13244}, "model": "item/equipment/auto_turret_top"},
+  { "predicate": {"custom_model_data": 13245}, "model": "item/equipment/auto_turret_bottom"},
+  { "predicate": {"custom_model_data": 13246}, "model": "item/equipment/land_mine"},
+  { "predicate": {"custom_model_data": 13247}, "model": "item/medicine/bandage"},
+  { "predicate": {"custom_model_data": 13248}, "model": "item/gun/ray/ray_gun_pink"},
+  { "predicate": {"custom_model_data": 13249}, "model": "item/gun/standard/rocket_launcher"},
+  { "predicate": {"custom_model_data": 13250}, "model": "item/gun/standard/rocket_launcher_empty"},
+  { "predicate": {"custom_model_data": 13251}, "model": "item/gun/thrower/flame_thrower"},
+  { "predicate": {"custom_model_data": 13253}, "model": "item/gun/ray/ray_gun_red"},
+  { "predicate": {"custom_model_data": 13254}, "model": "item/gun/laser/assault_laser_rifle"}
+
+ ]
+
+ 
+}
