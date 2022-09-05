@@ -18,8 +18,12 @@ jobs:
       with:
         filename: 'woofelstextures.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
-    - name: push changes to remote
-      run: |
-        git add -A
-        git commit -m "new pack"
-        git push --force
+    - name: Release Archive
+      uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        prerelease: false
+        title: "Build"
+        files: |
+          woofelstextures.zip
